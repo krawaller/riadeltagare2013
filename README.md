@@ -2,8 +2,5 @@ Deltagare i [RIA-kursen 2013](https://coursepress.lnu.se/kurs/ria-utveckling-med
 ================
 
 RIA-deltagare 2013:
-##Peter Persson
 
->blogg: http://www.perssonponerar.se/
-
->git: https://github.com/AllSecretsKnown
+*    Peter Persson - [blogg](http://www.perssonponerar.se/), [github](https://github.com/AllSecretsKnown)
