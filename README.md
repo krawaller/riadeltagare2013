@@ -6,3 +6,4 @@ RIA-deltagare 2013:
 *    Peter Persson - [blogg](http://www.perssonponerar.se/), [github](https://github.com/AllSecretsKnown)
 *    Fredrik Forsmo - [blogg](http://ria.forsmo.me), [github](https://github.com/frozzare)
 *    Caroline Millgårdh - [blogg](http://caromill.tumblr.com/), [github](https://github.com/caromill)
+*    Johan Johansson Sjölin - [blogg](http://devsjlin.calepin.co/), [github](https://github.com/sjolinjohan180)
