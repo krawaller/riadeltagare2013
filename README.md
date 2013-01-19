@@ -8,3 +8,4 @@ RIA-deltagare 2013:
 *    Caroline Millgårdh - [blogg](http://caromill.tumblr.com/), [github](https://github.com/caromill)
 *    Tryggve Blom - [blogg](http://tryggve.calepin.co/), [github](https://github.com/tryggve)
 *    Johan Johansson Sjölin - [blogg](http://devsjlin.calepin.co/), [github](https://github.com/sjolinjohan180)
+*    Linus Persson - [blogg](http://www.870621.se), [github](https://github.com/LPMAXI)
