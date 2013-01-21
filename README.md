@@ -10,3 +10,4 @@ RIA-deltagare 2013:
 *    Johan Johansson Sjölin - [blogg](http://devsjlin.calepin.co/), [github](https://github.com/sjolinjohan180)
 *    Linus Persson - [blogg](http://www.870621.se), [github](https://github.com/LPMAXI)
 *    Hans Bentlöv - [blogg](http://ria.bentlov.se), [github](https://github.com/hanserikb)
+*    Martin Svensson - [blogg](http://ms22vk.blog.com/), [github](https://github.com/martinsvenssonphp)
