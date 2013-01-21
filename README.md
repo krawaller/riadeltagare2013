@@ -7,3 +7,5 @@ RIA-deltagare 2013:
 >blogg: http://www.perssonponerar.se/
 
 >git: https://github.com/AllSecretsKnown
+
+>Fördjupning: Node.js
