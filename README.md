@@ -12,3 +12,4 @@ RIA-deltagare 2013:
 *    Hans Bentlöv - [blogg](http://ria.bentlov.se), [github](https://github.com/hanserikb)
 *    Martin Svensson - [blogg](http://ms22vk.blog.com/), [github](https://github.com/martinsvenssonphp)
 *    Claes Tillborg - [blogg](http://claestillborg.calepin.co/), [github](https://github.com/ClaesTillborg)
+*    Jesper Lindberg - [blogg](http://blog.jlind.me/), [github](https://github.com/mrjanek)
