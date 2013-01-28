@@ -14,3 +14,4 @@ RIA-deltagare 2013:
 *    Claes Tillborg - [blogg](http://claestillborg.calepin.co/), [github](https://github.com/ClaesTillborg)
 *    Jesper Lindberg - [blogg](http://blog.jlind.me/), [github](https://github.com/mrjanek)
 *    Therese Fallman - [blogg](http://ria.theresefallman.se/), [github](https://github.com/tess-andersson)
+*    Johan Leitet - [blogg](http://coursepress.lnu.se/johan-leitet/tag/ria-utveckling-med-javascript/), [github](https://github.com/Leitet)
