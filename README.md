@@ -5,7 +5,7 @@ RIA-deltagare 2013:
 
 *    Peter Persson - [blogg](http://www.perssonponerar.se/), [github](https://github.com/AllSecretsKnown), Fördjupning: node.js och socket.io för realtidsapplikation
 *    Fredrik Forsmo - [blogg](http://ria.forsmo.me), [github](https://github.com/frozzare)
-*    Caroline Millgårdh - [blogg](http://caromill.tumblr.com/), [github](https://github.com/caromill)
+*    Caroline Millgårdh - [blogg](http://caromill.tumblr.com/), [github](https://github.com/caromill), Fördjupning: jQuery
 *    Tryggve Blom - [blogg](http://tryggve.calepin.co/), [github](https://github.com/tryggve)
 *    Johan Johansson Sjölin - [blogg](http://devsjlin.calepin.co/), [github](https://github.com/sjolinjohan180)
 *    Linus Persson - [blogg](http://www.870621.se), [github](https://github.com/LPMAXI)
