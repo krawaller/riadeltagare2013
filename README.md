@@ -9,7 +9,7 @@ RIA-deltagare 2013:
 *    Tryggve Blom - [blogg](http://tryggve.calepin.co/), [github](https://github.com/tryggve)
 *    Johan Johansson Sjölin - [blogg](http://devsjlin.calepin.co/), [github](https://github.com/sjolinjohan180)
 *    Linus Persson - [blogg](http://www.870621.se), [github](https://github.com/LPMAXI)
-*    Hans Bentlöv - [blogg](http://ria.bentlov.se), [github](https://github.com/hanserikb)
+*    Hans Bentlöv - [blogg](http://ria.bentlov.se), [github](https://github.com/hanserikb/RIA2DV407), Fördjupning: [Ember.js](http://emberjs.com/) - Jämföra med Backbone
 *    Martin Svensson - [blogg](http://ms22vk.blog.com/), [github](https://github.com/martinsvenssonphp)
 *    Claes Tillborg - [blogg](http://claestillborg.calepin.co/), [github](https://github.com/ClaesTillborg)
 *    Jesper Lindberg - [blogg](http://blog.jlind.me/), [github](https://github.com/mrjanek)
