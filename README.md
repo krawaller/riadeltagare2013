@@ -7,7 +7,7 @@ RIA-deltagare 2013:
 *    Fredrik Forsmo - [blogg](http://ria.forsmo.me), [github](https://github.com/frozzare)
 *    Caroline Millgårdh - [blogg](http://caromill.tumblr.com/), [github](https://github.com/caromill), Fördjupning: jQuery
 *    Tryggve Blom - [blogg](http://tryggve.calepin.co/), [github](https://github.com/tryggve)
-*    Johan Johansson Sjölin - [blogg](http://devsjlin.calepin.co/), [github](https://github.com/sjolinjohan180)
+*    Johan Johansson Sjölin - [blogg](http://devsjlin.calepin.co/), [github](https://github.com/sjolinjohan180), Fördjupning: backbone.layoutmanager
 *    Linus Persson - [blogg](http://www.870621.se), [github](https://github.com/LPMAXI)
 *    Hans Bentlöv - [blogg](http://ria.bentlov.se), [github](https://github.com/hanserikb)
 *    Martin Svensson - [blogg](http://ms22vk.blog.com/), [github](https://github.com/martinsvenssonphp)
