@@ -4,7 +4,7 @@ Deltagare i [RIA-kursen 2013](https://coursepress.lnu.se/kurs/ria-utveckling-med
 RIA-deltagare 2013:
 
 *    Peter Persson - [blogg](http://www.perssonponerar.se/), [github](https://github.com/AllSecretsKnown), Fördjupning: node.js och Express ramverket
-*    Fredrik Forsmo - [blogg](http://ria.forsmo.me), [github](https://github.com/frozzare)
+*    Fredrik Forsmo - [blogg](http://ria.forsmo.me), [github](https://github.com/frozzare), Fördjupning: [Knockout](http://knockoutjs.com/)
 *    Caroline Millgårdh - [blogg](http://caromill.tumblr.com/), [github](https://github.com/caromill), Fördjupning: jQuery
 *    Tryggve Blom - [blogg](http://tryggve.calepin.co/), [github](https://github.com/tryggve)
 *    Johan Johansson Sjölin - [blogg](http://devsjlin.calepin.co/), [github](https://github.com/sjolinjohan180), Fördjupning: backbone.layoutmanager
