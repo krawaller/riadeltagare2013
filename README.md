@@ -1,7 +1,9 @@
-Deltagare i [RIA-kursen 2013](https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/)
+Deltagare i [RIA-kursen vt 2013](https://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/)
 ================
 
-RIA-deltagare 2013:
+*Obs: detta är den gamla listan från våren, ny lista för ht 2013 kommer!*
+
+RIA-deltagare vårterminen 2013:
 
 *    Peter Persson - [blogg](http://www.perssonponerar.se/), [github](https://github.com/AllSecretsKnown), Fördjupning: node.js och Express ramverket
 *    Fredrik Forsmo - [blogg](http://ria.forsmo.me), [github](https://github.com/frozzare), Fördjupning: [Knockout](http://knockoutjs.com/)
