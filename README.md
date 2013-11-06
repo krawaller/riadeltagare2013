@@ -15,3 +15,4 @@ RIA-deltagare 2013:
 *    Jesper Lindberg - [blogg](http://blog.jlind.me/), [github](https://github.com/mrjanek) Fördjupning: AngularJS
 *    Therese Fallman - [blogg](http://ria.theresefallman.se/), [github](https://github.com/tess-andersson), Fördjupning: Backbone.relational
 *    Johan Leitet - [blogg](http://coursepress.lnu.se/johan-leitet/tag/ria-utveckling-med-javascript/), [github](https://github.com/Leitet)
+*    Mikael Östman - [blogg](http://mo222ez.calepin.co/), [github](https://github.com/mo222ez/)
